@@ -1,0 +1,7 @@
+Web Homepage - http://127.0.0.1:8080/
+
+Web About Page - http://127.0.0.1:8080/about
+
+Web Unknown Page - http://127.0.0.1:8080/unknown
+
+Web Data Easter Egg/Page - http://127.0.0.1:8080/data
